@@ -15,7 +15,10 @@ class Mylife {
 		System.out.println("7p.m: Solat Maghrib");
 		System.out.println("8.15p.m: Solat isyak");
 		System.out.println("8.30p.m: Siapkan assignment");
-		System.out.println("10 p.m : Tidur");
+		System.out.println("10 p.m : 'Exercise Prgramming'");
+		System.out.println("12p.m: Sleep");
 		
 
 	}
+
+}
