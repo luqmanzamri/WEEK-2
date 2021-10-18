@@ -1,0 +1,71 @@
+package exercise2;
+
+class PrintCheckerPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("* \t\t * \t\t * \t\t * \t\t * \t\t");
+		System.out.println("\t * \t\t * \t\t * \t\t * \t\t *");
+		System.out.println("* \t\t * \t\t * \t\t * \t\t * \t\t");
+		System.out.println("\t * \t\t * \t\t * \t\t * \t\t *");
+		System.out.println("* \t\t * \t\t * \t\t * \t\t * \t\t");
+		
+
+	}
+
+}
+
+-----------------------------------------------------------------------------
+
+package exercise2;
+
+class PrintSquarePattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("*****");
+		System.out.println("*   *");
+		System.out.println("*   *");
+		System.out.println("*   *");
+		System.out.println("*****");
+		
+
+	}
+
+}
+
+-----------------------------------------------------------------------------
+
+package exercise2;
+
+class PrintstarPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("    *    ");
+		System.out.println("* *   * *");
+		System.out.println("   * *    ");
+		System.out.println("  *   *  ");
+		System.out.println(" *     * ");
+
+	}
+
+}
+
+-----------------------------------------------------------------------------
+
+package exercise2;
+
+class PrintTriangularPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("* * * * *");
+		System.out.println(" *     *");
+		System.out.println("  *   *");
+		System.out.println("   * *");
+		System.out.println("    *");
+
+	}
+
+}
